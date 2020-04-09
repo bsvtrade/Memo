@@ -1,0 +1,7 @@
+Links
+
+Practic of MFTI
+http://judge.mipt.ru/mipt_cs_on_python3/
+
+Learn a C#
+https://ulearn.me/
